@@ -1,0 +1,14 @@
+$light-color: #333;
+$font-stack: 'Lato', sans-serif;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $light-color;
+  font-family: $font-stack;
+  line-height: 1.6; 
+}
